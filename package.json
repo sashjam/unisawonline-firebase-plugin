@@ -8,7 +8,7 @@
     "url": "https://github.com/sashjam/unisawonline-firebase-plugin"
   },
   "name": "unisawonline-firebase-plugin",
-  "version": "0.1.25",
+  "version": "0.1.0",
   "description": "UnisawDev Firebase",
   "cordova": {
     "id": "unisawonline-firebase-plugin",
