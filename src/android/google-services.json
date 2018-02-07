@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282880515116",
+    "firebase_url": "https://unisaw-online.firebaseio.com",
+    "project_id": "unisaw-online",
+    "storage_bucket": "unisaw-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282880515116:android:a431e862e5eb3b15",
+        "android_client_info": {
+          "package_name": "ru.unisawdev.unisawonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282880515116-nbr3pt9kndlb2rq2i9rpuemkhl3udi1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.unisawdev.unisawonline",
+            "certificate_hash": "6448eb98354c756a7ddcf2a1699dbfbadd763aab"
+          }
+        },
+        {
+          "client_id": "282880515116-sasmt7brque0gadnoeabhbni3g0e6808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfaOhv3v7d1bQKTvdZ-AL8F-IYX8tTkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282880515116-sasmt7brque0gadnoeabhbni3g0e6808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
